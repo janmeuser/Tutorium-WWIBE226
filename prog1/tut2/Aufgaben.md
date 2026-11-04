@@ -1,4 +1,4 @@
-# Tutorium 26.02. – Objektorientierte Programmierung
+# Tutorium – Objektorientierte Programmierung
 
 ---
 
