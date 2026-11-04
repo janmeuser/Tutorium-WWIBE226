@@ -10,3 +10,5 @@ Termine:
 - **Dienstag, 15.12. | 13.45 - 15.15 Uhr** Klausurvorbereitung
 
 **Klausur: 21.12.**
+
+<img width="960" height="809" alt="Meme" src="https://github.com/user-attachments/assets/a4287a91-3027-4332-ad14-4f5d274953d1" />
